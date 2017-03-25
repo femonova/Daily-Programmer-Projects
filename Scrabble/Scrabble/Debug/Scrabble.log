@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  Scrabble.cpp
+c:\users\femon\documents\visual studio 2015\projects\scrabble\scrabble\scrabble.cpp(49): warning C4018: '>=': signed/unsigned mismatch
+  Scrabble.vcxproj -> C:\Users\Femon\Documents\Visual Studio 2015\Projects\Scrabble\Debug\Scrabble.exe
+  Scrabble.vcxproj -> C:\Users\Femon\Documents\Visual Studio 2015\Projects\Scrabble\Debug\Scrabble.pdb (Full PDB)
